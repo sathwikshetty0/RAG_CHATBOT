@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: croma
+Version: 0.0.2
+Summary: A simple scientific visualization and animation library for Python
+Home-page: https://github.com/fidelechevarria/croma
+Author: Fidel Echevarria Corrales
+Author-email: fidel.echevarria.corrales@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+
+UNKNOWN
+
+
