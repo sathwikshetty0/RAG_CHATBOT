@@ -3,3 +3,27 @@ langchain
 chromadb # Vector storage
 pytest
 boto3
+flask
+flask-cors
+python-dotenv
+smtplib
+email-validator
+langchain>=0.2.0
+langchain-community>=0.0.25
+langchain-ollama>=0.3.3
+langchain-chroma
+ollama>=0.5.1
+chromadb
+PyMuPDF
+pdfminer.six
+pypdf
+tiktoken
+sentence-transformers
+
+# For PDF loading and splitting
+
+langchain-text-splitters>=0.0.1
+
+# Ensure compatibility with Python 3.12
+
+importlib-metadata; python\_version<'3.8'
