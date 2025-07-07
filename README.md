@@ -54,7 +54,7 @@ Install [Ollama](https://ollama.com/download) and pull the embedding + chat mode
 
 ```bash
 ollama pull nomic-embed-text
-ollama pull llama3
+ollama pull llama3.2:3b
 ```
 
 ---
