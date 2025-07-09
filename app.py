@@ -14,7 +14,6 @@
 
 # # Initialize Ollama model
 # model = OllamaLLM(model="llama3.2:3b")  # Ensure the correct model name
-
 # # Define prompt template
 # # PROMPT_TEMPLATE = """
 # # context:
