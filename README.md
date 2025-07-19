@@ -1,4 +1,4 @@
-# 📚 Clap AI – Student Chatbot using LangChain, Ollama & Flask
+# 📚 Student Chatbot using LangChain, Ollama & Flask
 
 Clap AI is an intelligent educational assistant designed for students. It uses Retrieval-Augmented Generation (RAG) powered by **LangChain**, **Ollama**, and **ChromaDB** to answer student questions using course material (PDFs).
 
